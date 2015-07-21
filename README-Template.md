@@ -31,3 +31,38 @@ until finished
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
+
+## Running the tests
+
+Explain how to run the automated tests for this system
+
+### Break down into end to end tests
+
+### And coding style tests
+
+## Deployment
+
+Add additional notes about how to deploy this on a live system
+
+## Contributing
+
+Feel free to submit pull requests and issues. If it's a particualy large PR, you may wish to discuss it in an issue first.
+
+Please note that this project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms.
+
+## Authors
+
+Nils Adermann - <naderman@naderman.de> - <https://twitter.com/naderman> - <http://www.naderman.de><br />
+Jordi Boggiano - <j.boggiano@seld.be> - <https://twitter.com/seldaek> - <http://seld.be><br />
+
+See also the list of [contributors](https://github.com/composer/composer/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details
+
+## Acknowledgments
+
+* Hat tip to anyone who's code was used
+* Inspiration
+* etc
