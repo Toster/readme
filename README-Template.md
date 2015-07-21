@@ -56,7 +56,7 @@ Give an example
 
 Add additional notes about how to deploy this on a live system
 
-## Technology
+## Build With
 
 * Dropwizard - Bla bla bla
 * Maven - Maybe
