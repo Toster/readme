@@ -62,6 +62,19 @@ Feel free to submit pull requests and issues. If it's a particualy large PR, you
 
 Please note that this project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms.
 
+## Technology Choices
+
+### Dropwizard 
+
+Bla bla bla
+
+### Maven 
+
+Maybe
+
+### Atom
+
+aergaerga
 ## Authors
 
 Names of the current team members!
@@ -77,3 +90,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 * Hat tip to anyone who's code was used
 * Inspiration
 * etc
+
