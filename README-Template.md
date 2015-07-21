@@ -56,17 +56,17 @@ Give an example
 
 Add additional notes about how to deploy this on a live system
 
+## Technology
+
+* Dropwizard - Bla bla bla
+* Maven - Maybe
+* Atom - ergaerga
+
 ## Contributing
 
 Feel free to submit pull requests and issues. If it's a particualy large PR, you may wish to discuss it in an issue first.
 
 Please note that this project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms.
-
-## Technology Choices
-
-* Dropwizard - Bla bla bla
-* Maven - Maybe
-* Atom - ergaerga
 
 ## Authors
 
