@@ -64,10 +64,9 @@ Please note that this project is released with a Contributor Code of Conduct. By
 
 ## Authors
 
-Nils Adermann - <naderman@naderman.de> - <https://twitter.com/naderman> - <http://www.naderman.de><br />
-Jordi Boggiano - <j.boggiano@seld.be> - <https://twitter.com/seldaek> - <http://seld.be><br />
+Names of the current team members!
 
-See also the list of [contributors](https://github.com/composer/composer/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
