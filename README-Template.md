@@ -67,7 +67,7 @@ Please note that this project is released with a Contributor Code of Conduct. By
 * Dropwizard - Bla bla bla
 * Maven - Maybe
 * Atom - ergaerga
-* 
+
 ## Authors
 
 Names of the current team members!
