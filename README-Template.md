@@ -70,7 +70,7 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for the version tags available see the tags on this repository. 
+We use [SemVer](http://semver.org/) for the versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
