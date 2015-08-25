@@ -66,7 +66,7 @@ Add additional notes about how to deploy this on a live system
 
 Feel free to submit pull requests and issues. If it's a particualy large PR, you may wish to discuss it in an issue first.
 
-Please note that this project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms.
+Please note that this project is released with a [Contributor Code of Conduct](code_of_conduct.md). By participating in this project you agree to abide by its terms.
 
 ## Versioning
 
@@ -74,13 +74,13 @@ We use [SemVer](http://semver.org/) for the version tags available, see the tags
 
 ## Authors
 
-Names of the current team members!
+* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
