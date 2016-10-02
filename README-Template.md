@@ -18,7 +18,7 @@ Give examples
 
 A step by step series of examples that tell you have to get a development env running
 
-Stay what the step will be
+Say what the step will be
 
 ```
 Give the example
