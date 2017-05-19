@@ -1,88 +1,65 @@
-# Project Title
+# Titre du projet
+_(juste en dessous des badges sympatiques à placer)_
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
+Une petite description du projet
 
-One Paragraph of project description goes here
+## Pour commencer
 
-## Getting Started
+Entrez ici les instructions pour bien débuter avec votre projet...
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+### Pré-requis
 
-### Prerequisites
+Ce qu'il est requis pour commencer avec votre projet...
 
-What things you need to install the software and how to install them
+- Programme 1
+- Programme 2
+- etc...
 
-```
-Give examples
-```
+### Installation
 
-### Installing
+Les étapes pour installer votre programme....
 
-A step by step series of examples that tell you have to get a development env running
+Dites ce qu'il faut faire...
 
-Say what the step will be
+_exemple_: Executez la commande ``telnet mapscii.me`` pour commencer ensuite [...]
 
-```
-Give the example
-```
 
-And repeat
+Ensuite vous pouvez montrer ce que vous obtenez au final...
 
-```
-until finished
-```
+## Démarrage
 
-End with an example of getting some data out of the system or using it for a little demo
+Dites comment faire pour lancer votre projet
 
-## Running the tests
+## Fabriqué avec
 
-Explain how to run the automated tests for this system
+Entrez les programmes/logiciels/ressources que vous avez utilisé pour développer votre projet
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+_exemples :_
+* [Materialize.css](http://materializecss.com) - Framework CSS (front-end)
+* [Atom](https://atom.io/) - Editeur de textes
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Si vous souhaitez contribuer, lisez le fichier [CONTRIBUTING.md](https://example.org) pour savoir comment le faire.
 
-## Versioning
+## Versions
+Listez les versions ici 
+_exemple :_
+**Dernière version stable :** 5.0
+**Dernière version :** 5.1
+Liste des versions : [Cliquer pour afficher](https://github.com/your/project-name/tags)
+_(pour le lien mettez simplement l'URL de votre projets suivi de ``/tags``)_
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+## Auteurs
+Listez le(s) auteur(s) du projet ici !
+* **Jhon doe** _alias_ [@outout14](https://github.com/outout14)
 
-## Authors
+Lisez la liste des [contributeurs](https://github.com/your/project/contributors) pour voir qui à aidé au projet !
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+_(pour le lien mettez simplement l'URL de votre projet suivi de ``/contirubors``)_
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+Ce projet est sous licence ``exemple: WTFTPL`` - voir le fichier [LICENSE.md](LICENSE.md) pour plus d'informations
 
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
 
